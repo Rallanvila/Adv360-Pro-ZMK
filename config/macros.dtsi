@@ -1,3 +1,9 @@
+macro_screen_shot: macro_screen_shot{
+compatible = "zmk,behavior-macro";
+label = "macro_screen_shot";
+#binding-cells = <0>;
+bindings = <&kp LGUI>, <&kp LCTRL>, <&kp LEFT_SHIFT>, <&kp KP_NUMBER_4>;
+};
 macro_ctrl_option: macro_ctrl_option{
 compatible = "zmk,behavior-macro";
 label = "macro_ctrl_option";
