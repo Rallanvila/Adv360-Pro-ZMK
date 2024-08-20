@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"(MOD_LCTL | MOD_LSFT | MOD_LGUI)"
+		],
+		"description": "(MOD_LCTL | MOD_LSFT | MOD_LGUI)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
